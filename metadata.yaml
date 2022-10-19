@@ -1,0 +1,24 @@
+_repo: Jedermanns-Hundebuch-Plege-Erziehung-und-Dressur-des-Haushundes_69045
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Otto, Ernst von
+    gutenberg_agent_id: '55069'
+    url: http://www.gutenberg.org/2009/agents/55069
+description: ''
+gutenberg_issued: '2022-09-25'
+identifiers:
+  gutenberg: '69045'
+language: de
+pgterms:marc905: 20220912153800vonotto
+pgterms:marc906: '1924'
+pgterms:marc907: DE
+production_note: Dieter Doggendorf
+publication_note: Germany :Verlagsbuchhandlung Paul Perey,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jedermanns Hundebuch: Plege, Erziehung und Dressur des Haushundes'
+url: http://www.gutenberg.org/ebooks/69045
